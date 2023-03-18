@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Programa {
     public static void main(String[] args){
 
-		String[] names = {"Alejandro", "David", "Sergio", "Sol", "Mel", "Evelyn", "Jared", "Omar", "Juan", "Luis"};
+		String[] names = {"Alejandra", "David", "Sergio", "Sol", "Mel", "Evelyn", "Jared", "Omar", "Juan", "Luis"};
         Random random = new Random();
 		Personas[] personas = new Personas[10];
 		for(int i = 0; i < 10; i++){
